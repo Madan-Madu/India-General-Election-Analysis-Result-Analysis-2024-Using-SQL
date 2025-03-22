@@ -1,0 +1,1 @@
+# India-General-Election-Analysis-Result-Analysis-2024-Using-SQL
